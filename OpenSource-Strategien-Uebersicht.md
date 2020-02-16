@@ -1,148 +1,150 @@
-# Strategic use of Free Software in companies and organizations
+# Strategischer Einsatz von Freier Software in Unternehmen und Organisationen
+## Freibier
+Als wir vor einem Vierteljahrhundert mit der Entwicklung von Linux begonnen haben, konnten wir auf dem riesigen Erbe an Freier Software aufbauen, das wir für Offene Systeme vorgefunden haben.
 
-## Free Beer
-When we started developing Linux a quarter of a century ago, we were able to build on the huge legacy of Free Software that we found for Open Systems.
+Damals haben wir betont von Freier Software gesprochen und die bürgerlichen, demokratischen Freiheitsrechte gemeint. Dabei haben wir uns immer vehement von Frei wie in Freibier distanziert. Heute kann ich das sagen: auch ich konsumiere gerne Freibier. Jedenfalls solange das Angebot groß und der Geschmack gut ist. Bildlich gesprochen ist Freie Software gut verträglich. Nach meiner Erfahrung ist das Risiko mit einem Dicken Kopf aufzuwachen bei Proprietärer Software größer.
 
-At that time we spoke emphatically of Free Software and meant civil, democratic freedoms. We have always vehemently distanced ourselves from free as in free beer. Today I can say that: I also like to consume free beer. At least as long as the offer is large and the taste is good. Metaphorically speaking, Free Software is well tolerated. In my experience, the risk of waking up with a fat head is greater with proprietary software.
+Wenn wir die Sache nüchtern betrachten kann das Freibier im Bierzelt aber durchaus auch Mittel zum Zweck sein. In diesem Sinne lässt sich Freie Software vielfältig auch strategisch einsetzen. Dafür möchte ich in meinem Vortrag ein paar Beispiele geben.
 
-If we look at it matter-of-factly, the free beer in the beer tent can also be a means to an end. In this sense, Free Software can also be used strategically in many ways. I would like to give a few examples of this in this article.
+### Indirekte Optimierung
+Als erstes konkretes Beispiel für den strategischen Einsatz von Freier Software gehe ich zurück in das Jahr 2000, die Zeit von Otto Schily als Innenminister.
 
-## Indirect Optimization
-As a first concrete example of the strategic use of Free Software, I go back to the year 2000, the time of Otto Schily as German Minister of the Interior.
+Der Innenminister ist förmlich zuständig für den IT Betrieb der Bundesverwaltung. Als solcher musste Otto Schily damals entscheiden über den Kauf von Lizenzen und Wartung für tausende von Windows, Microsoft Office und anderer Microsoft Produkte. Und Otto Schily musste feststellen, das er keinen Spielraum für eine echte Verhandlung mit echter Entscheidung hatte. Microsoft konnte einfach eine Rechnung vorlegen und um termingerechte Überweisung bitten.
 
-The interior minister is formally responsible for the IT operations of the federal administration. As such, Otto Schily had to decide at the time about purchasing licenses and maintenance for thousands of Windows, Microsoft Office and other Microsoft products. And Otto Schily realized that he had no scope for a real negotiation with a real decision. Microsoft could simply submit an invoice and ask for a timely transfer.
+An diesem Punkt hat Otto Schily eine ganze Reihe von ambitionierten Migrationsprojekten initiiert in denen Microsoft durch Freie Software ersetzt wurde. Ich persönlich habe damals beim Bundeskartellamt die Vorgangsdatenbank von Microsoft SQL zu Postgres migriert.
 
-At this point Otto Schily initiated a number of ambitious migration projects in which Microsoft was replaced by Free Software. At the time, I personally migrated the process database from Microsoft SQL to Postgres at the Bundeskartellamt.
+Ich kann mit Stolz sagen, dass wir technisch durchaus erfolgreich waren. Dieser Erfolg war aber gar nicht entscheidend. Viel wichtiger ist, dass die Projekte wirtschaftlich erfolgreich waren. Und zwar in dem Sinne, dass Otto Schily nun eine ganz andere Verhandlungsposition gegenüber Microsoft hatte. Freie Software hat sich im Serverbetrieb der Bundesverwaltung etabliert. Nicht als flächendeckender Ersatz aber als gleichwertige Komponente. Und damit besteht jederzeit eine Alternative zu den proprietären Anbietern. Das ist wichtig für den Markt und es ist wichtig für den Steuerzahler.
 
-I can proudly say that we were technically successful. However, this success was not decisive. It is much more important that the projects were economically successful. In the sense that Otto Schily now had a completely different negotiating position with Microsoft. Free software has established itself in the federal administration's server operation. Not as a comprehensive replacement but as an equivalent component. And so there is always an alternative to the proprietary providers. This is important for the market and it is important for the taxpayer.
+### Geiz ist Geil
+Ein zweites Beispiel für den strategischen Einsatz von Freier Software zur Kostenoptimierung ist in den Geschäftsmodellen von Strato, 1&1, Host Europe aber auch bei den Cloud Providern zu finden. Hier werden die Kosten für Software so weit gedrückt, dass schlicht kein Platz mehr ist für einen unabhängigen Softwarehersteller. Das geht nur mit Freibier. Verkauft wird nicht das Bier, sondern der Platz an der Theke.
 
-## Avarice is Cool
-A second example of the strategic use of Free Software for cost optimization can be found in the business models of Strato, 1 & 1, Host Europe but also in the cloud providers. Here the costs for software are pushed so far that there is simply no space for an independent software manufacturer. This is only possible with free beer. It is not the beer that is sold, but the space at the counter.
+### Einkaufsvermeidung
+Das dritte Beispiel führt uns in die Abgründe einer Silo Organisation. In den Ränkespielen der unternehmensinternen Macht und Verteilungskämpfe findet Innovation häufig nur noch in Zeitlupe statt. Hier lässt sich Freibier Software trefflich auf eine dritte Weise strategisch einsetzen. Dabei geht es dann nicht darum Lizenzkosten zu sparen sondern die anderen Abteilungen und den Beschaffungsprozess ganz zu umgehen. Die Fachabteilungen sind Profitcenter und es mangelt meistens nicht an Budget. Woran es mangelt ist Flexibilität und Geschwindigkeit.
 
-## Procurement Prevention
-The third example leads us into the abyss of a silo organization. In the intrigues of internal power and distribution struggles, innovation often only takes place in slow motion. Here, free beer software can be strategically used in a third way. It is not a question of saving license costs, but of bypassing the other departments and the procurement process. The application business departments are profit centers and there is usually no shortage of budget. What is lacking is flexibility and speed.
+Freie Software ist Freibier zum selbstzapfen. Das macht ein unmittelbares Erfolgserlebnis, Innovation findet in Echtzeit statt. Die Dynamik die sich auf diese Weise entfaltet ist nicht nur motivierend, sie ist im globalen Wettbewerb notwendige Voraussetzung für das langfristige überleben.
 
-Free software is free beer to tap yourself. This creates an immediate sense of achievement, innovation takes place in real time. The dynamic that unfolds in this way is not only motivating, it is a necessary prerequisite for long-term survival in global competition.
+### Schnorrer
+Im Sinne einer nüchternen Betrachtung verlasse jetzt das Bierzelt und komme zurück auf Frei wie in Freiheit. Wie gesagt, der strategische Einsatz zur Kostenreduzierung ist absolut valide. Allerdings wäre es fatal die strategischen Überlegungen auf diesen Aspekt zu beschränken. Wer Freie Software nur ausbeutet ohne eine Strategie für die Mitwirkung an deren Entwicklung zu haben ist umgangssprachlich gesagt ein Schnorrer.
 
-## Scrounger
-In the sense of a sober view, I now leave the beer tent and come back to free as in freedom. As I said, the strategic use to reduce costs is absolutely valid. However, it would be fatal to limit strategic considerations to this aspect. Anyone who only exploits Free Software without having a strategy for participating in its development is a colloquial scrounger.
+Den Open Source Projekten ist es in der Regel egal wie viele Schnorrer an ihnen dran hängen. Wir alle kennen Schnorrer, sie gehören zum Leben. Aber wer immer nur Freibier trinkt und nie eine Runde ausgibt, der hat keine Freunde. Und keine Freunde zu haben rächt sich beim Beauty Contest um talentierte Entwickler auf den ich später noch eingehen werde.
 
-Open source projects generally don't care how many snoops are attached to them. We all know scroungers, they are part of life.  But whoever only drinks free beer and never spends a round has no friends. And having no friends takes revenge at the Beauty Contest for talented developers, which I will discuss later.
+## Digitale Allmende
+An dieser Stelle möchte ich aber noch kurz innehalten und der Frage nachgehen was die bisher beleuchteten drei Strategischen Elemente eigentlich spezifisch mit Freier Software, mit Open Source zu tun haben. Kostenfrei ist auch Freeware oder Public Domain Software.
 
-## Digital Commons
-At this point, however, I would like to pause briefly and consider the question of what the three strategic elements highlighted so far actually have to do specifically with Free Software, with Open Source. Freeware or public domain software is also free of charge.
+Im Einzelfall kann ja auch so ein kostenloses Produkt strategisch wirkungsvoll sein. Adobe liefert seinen PDF Reader kostenfrei und bereitet damit einen Markt für seine kostenpflichtigen PDF Tools.
 
-In individual cases, a free product like this can also be strategically effective. Adobe delivers its PDF reader free of charge, thereby preparing a market for its chargeable PDF tools.
+Freie Software, oder Open Source Software wie wir sie technisch heute nennen, ist aber kein Einzelfall. Sie ist allgegenwärtig und in einem umfassenden Leistungsspektrum mit hohem Qualitätsstandard verfügbar. Freie Software hat sich über die vergangenen Jahrzehnte kontinuierlich zu einer Digitalen Allmende entwickelt. Freie Software öffnet als Gemeingut einen kreativen und produktiven Raum neben den klassischen Märkten für Lizenzen und proprietären Produkte.
 
-Free software, or Open Source software as we technically call it today, is not an individual case. It is omnipresent and available in a comprehensive range of services with a high quality standard. Free software has continuously developed into a digital commons over the past decades. As a common good, Free Software opens up a creative and productive space alongside the classic markets for licenses and proprietary products.
+Anders als die mittelalterliche Gemeinweide ist die Digitale Allmende resistent gegen Übernutzung. Die Open Source Lizenzen sichern den Fortbestand und das Wachstum selbst wenn ein Großteil der Nutzer als Trittbrettfahrer unterwegs sind.
+Damit hat Freie Software nach und nach die Struktur des Software Geschäfts insgesamt verändert. Das Server Geschäft wird von Linux dominiert, die Smartphones von Android, Webserver sind Freie Software, Programmiersprachen und Entwicklungsumgebungen, ein Großteil der Datenbanken, Dokument Managementsysteme, AI und ML Frameworks alles ist vielfältig und in hoher Qualität als Freie Software erhältlich.
 
-Unlike the medieval common pasture, the digital commons is resistant to overuse. The open source licenses ensure the continued existence and growth even when a large number of users are on the go as free-riders.
+Natürlich gibt es weiterhin viele kommerzielle Software-Angebote. Die positionieren sich aber immer in einem Umfeld von Freier Software. Rein proprietäre Angebote werden verdrängt.
 
-Free software has gradually changed the structure of the software business as a whole. The server business is dominated by Linux, the smartphones by Android, web servers are Free Software, programming languages and development environments, a large part of the databases, document management systems, AI and ML frameworks, everything is varied and available in high quality as Free Software.
-Of course, there are still many commercial software offerings. But they always position themselves in an environment of Free Software. Purely proprietary offers are being replaced.
+### Exkurs: Commons
+Das Wort Allmende bezeichnet ursprünglich das gemeinschaftlich genutzte Land einer Dorfgemeinschaft, das Gemeingut. Im englischen ist dafür der Begriff Commons gebräuchlich und zum Beispiel als Creative Commons auch im Kontext von Freier Software etabliert.
 
-## Development
-In software development, open source software is used so naturally and universally that the basic character of Free Software is no longer perceived by many users.
+## Entwicklung
+In der Softwareentwicklung ist Open Source Software so selbstverständlich und universell im Einsatz, dass der grundlegende Charakter als Freie Software von vielen Nutzern gar nicht mehr wahrgenommen wird.
 
-Even Microsoft has long been committed to open source strategy and is one of the largest contributors to open source software. The Roslyn compiler and the entire dotNet core are open source.
-For this Free Software there are of course commercial offers with quality assurance, support and SLAs. Practically all users use the finished products and the open source communities are manageable. The use of this software is therefore not really strategically relevant for the users.
+Sogar Microsoft ist längst auf Open Source Strategie eingeschwenkt und ist einer der größten Contributoren für Open Source Software. Der Roslyn Compiler und das gesamte dotNet Core sind Open Source.
 
-For Microsoft, the changeover of their own development model is relevant insofar as it represents the company as a sovereign technology leader. At the same time, the spread of free and open source software is a very effective way to build trust or counter mistrust. The image of Microsoft has improved enormously with the shift towards open source methodology and strategy.
+Für diese Freie Software gibt es selbstverständlich kommerzielle Angebote mit Qualitätssicherung, Support und SLAs. Praktisch alle Anwender nutzen die fertigen Produkte und die Open Source Communities sind überschaubar. Strategisch ist der Einsatz dieser Software deshalb für die Anwender nicht wirklich relevant.
 
-Similarly, in the development of new technologies, we find numerous examples of the central role of Free Software. The tools and libraries for software development for Big Data, Internet of Things, Machine Learning and Artificial Intelligence are distributed as Free Software. Google, Amazon, Apple and Co are positioning themselves as sovereign technology leaders and at the same time occupying the emerging new markets with their products. In this way, new standards are set, programming interfaces and APIs are established as experience knowledge in the innovative developer communities. This is the strategic use of Free Software.
+Für Microsoft ist die Umstellung ihres eigenen Entwicklungsmodells aber insofern relevant, als es das Unternehmen als souveränen Technologieführer darstellt. Gleichzeitig ist die Verbreitung von Freier und Quelloffener Software ein sehr wirksames Mittel um Vertrauen herzustellen oder Mißtrauen entgegen zu wirken. Das Image von Microsoft hat mit sich der Hinwendung zu Open Source Methodik und Strategie enorm verbessert.
 
-If you come from a university or university of applied sciences today and start as a software engineer, you have absolutely certainty gained experience with Free Software during your training and study time. In the simplest case as a user. The more ambitious developers read open source far beyond the application, learned from it and trained and perfected their skills in community projects. Exactly these developers are needed today. Simple programmers will be replaced by robots in the future.
+Analog finden wir in der Entwicklung neuer Technologien zahlreiche Beispiele für die zentrale Rolle von Freier Software. Die Tools und Bibliotheken zur Softwareentwicklung für Big Data, Internet of Things, Machine Learning und Künstliche Intelligenz werden als Freie Software verbreitet. Damit positionieren sich Google, Amazon, Apple und Co ihrerseits als souveräne Technologieführer und besetzen gleichzeitig die entstehenden neuen Märkte mit ihren Produkten. Auf diese Weise werden neue Standards gesetzt, Programmierschnittstellen und APIs als Erfahrungswissen bei den innovativen Entwicklercommunities etabliert. Das ist strategischer Einsatz von Freier Software.
 
-By the way, this new aspect of computer programming, the use of machines for automation, maintenance and optimization of the development work is only possible through the use of artificial intelligence on the large source code stocks of Free Software. For example, Github offers tools for automatically improving your own programs and documentation. Completely new business models are being built on the digital commons and the strategic use of open source is being raised to a new level.
+Wer heute von einer Universität oder Fachhochschlule kommt und als Softwareingenieur anfängt, der hat in seine Ausbildungs und Studienzeit mit absoluter Sicherheit Erfahrungen mit Freier Software gesammelt. Im einfachsten Fall als Anwender. Die ambitionierteren Entwickler haben weit über die Anwendung hinaus Open Source gelesen, daraus gelernt und ihre Fähigkeiten in Community Projekten ausgebildet und perfektioniert. Genau diese Entwickler werden heute gebraucht. Einfache Programmierer werden in Zukunft durch Roboter ersetzt.
 
-## Beauty contest
-In addition to the ubiquitous use of Free Software as a tool or framework in software engineering and coding, the topic also plays an important role in the recruitment of new employees. Ambitious developers who take care of themselves profile themselves in open source projects. And they attach great importance to participating in such projects, at least occasionally, even in paid roles. For the developer, this is both a reference and a business card, but it is also an attitude.
+Nebenbei gesagt ist dieser neue Aspekt von Computer Programmierung, der Einsatz von Maschinen für Automatisierung, Wartung und Optimierung der Entwicklungsarbeit erst durch den Einsatz von Künstlicher Intelligenz auf den großen Quellcode Beständen der Freien Software möglich.  Beispielsweise Github bietet Tools zur automatischen Verbesserung der eigenen Programme und Dokumentation an. Da werden auf der Digitalen Allmende ganz neue Geschäftsmodelle aufgebaut und der strategische Einsatz von Open Source auf eine neue Ebene gehoben.
 
-If you are interested in the open source mindset and implementation in the company, I recommend the book “The Open Organization” by our CEO Jim Whitehurst. And I can also shamelessly advertise here on Github: Red Hat is Hiring! We have a lot of vacancies for super cool roles.
+### Beauty Contest
+Neben der allgegenwärtigen Nutzung von Freier Software als Tool oder Framework im Software Engineering und Coding spielt das Thema auch eine wichtige Rolle bei der Werbung neuer Mitarbeiter. Ehrgeizige Entwickler die etwas auf sich halten profilieren sich in Open Source Projekten. Und sie legen wert darauf, auch in der bezahlten Rolle wenigstens punktuell an solchen Projekten mitzuwirken. Für den Entwickler ist das einerseits Referenz und Visitenkarte, andererseits ist es aber auch eine Einstellung.
 
-Employers who do not have an open source strategy or who half-heartedly only exploit the digital commons lose in the competition for the best talents. And this cultural change does not only affect software development. In addition to Jim Whitehurst, I also recommend Frederic Laloux with “Reinventing Organizations”. Pioneering book! Hence a few more starting points for a solid and future-oriented open source strategy.
+Wer sich für das Open Source Mindset und die Umsetzung im Unternehmen interessiert, dem empfehle ich das Buch “The Open Organization” von unserem noch-CEO Jim Whitehurst. Und ich kann hier von dieser Bühne auch ganz schamlos Werbung machen: Red Hat is Hiring! Wir haben einen haufen offener Stellen für supercoole Rollen. Kontaktdaten in der Pause gerne bei mir.
+
+Arbeitgeber, die keine Open Source Strategie haben oder die halbherzig nur auf Ausbeutung der Digitalen Allmende setzen verlieren in dem Wettkampf um die besten Talente. Und dieser Kulturwandel betrifft keineswegs nur die Softwareentwicklung. Ich empfehle neben Jim Whitehurst auch noch Frederic Laloux mit “Reinventing Organizations”. Richtungsweisendes Buch! Deshalb also noch ein paar weitere Ansatzpunkte für eine solide und zukunftsweisende Open Source Strategie.
 
 
-## De Facto Standardization
-Free software has played a central and proven role in the introduction and standardization of technologies, formats and protocols for decades.
+## De Facto Standardisierung
+Bei der Einführung und Standardisierung von Technologien, Formaten und Protokollen spielt Freie Software seit jahrzehnten eine zentrale und bewährte Rolle. 
 
-The emergence of the Internet is a good example of the strategic effectiveness of Free Software. The protocols are formulated as open standards in RFC documents and implemented as Free Software references. This ensures universal availability and interoperability.
-The triumphal march of the Internet and the associated network protocols, interfaces and file formats
+Die Entstehung des Internet ein gutes Beispiel für die strategische Wirksamkeit von Freier Software. Die Protokolle sind als offene Standards in RFC Dokumenten formuliert und als Freie Software Referenz implementiert. Das sichert die universelle Verfügbarkeit und die Interoperabilität.
 
-In the late 20th century, digital networks were still dominated by proprietary products and protocols. Who else knows Novell Netware? Or the Windows 95 MSN? Today it's all history. Today Microsoft hires the Samba team to document the details of the CIFS protocol and they provide their test environment for the development of the domain server in Samba4.
+Der Siegeszug des Internet und der damit verbundenen Netzwerkprotokolle, Schnittstellen und Dateiformate 
+Im ausklingenden 20sten Jahrhundert waren digitale Netzwerke noch verbreitet von proprietären Produkten und Protokollen dominiert. Wer kennt noch Novell Netware? Oder das MSN von Windows 95? Heute ist das alles Geschichte. Heute beauftragt Microsoft das Samba Team, damit sie die Details des CIFS Protokolls dokumentieren und sie stellen ihre Testumgebung für die Entwicklung des Domänenservers in Samba4 zur Verfügung.
 
-This change has not come of its own accord. At Microsoft, in particular, the various antitrust proceedings have certainly played an important role. Overall, however, we can say that the markets are increasingly sensitive to vendor lock-in. And the ubiquitous practice of open standards, open APIs and open implementation lead to the corresponding expectations on the customer side.
+Dieser Wandel ist nicht von allein gekommen. Speziell bei Microsoft haben sicher auch die diversen Kartellverfahren eine wichtige Rolle gespielt. Insgesamt können wir aber feststellen, dass die Märkte zunehmend sensibel gegen Vendor Lock-In sind. Und die allgegenwärtige Praxis von Offenen Standards, Offenen APIs und Offener Implementierung führen zu der entsprechenden Erwartungshaltung auf Kundenseite.
 
 ### Docker
-Docker is a good example of this new market dynamic. The initial project established a data format and a tool for creating and handling Linux containers. The resounding success is due directly to the implementation in Free Software. Docker INC, which was founded on the project, is therefore not easily successful in establishing a functioning business model based on Free Software. The technology belongs to the digital commons. The company is owned by risk investors. It can go well together, but it doesn't have to.
+Docker gibt ein gutes Beispiel für diese neue Marktdynamik. Das initiale Projekt hat ein Datenformat und ein Werkzeug für Erzeugung und Handhabung von Linux Containern etabliert. Der durchschlagende Erfolg ist unmittelbar auf die Implementierung in Freier Software zurückzuführen. Das auf dem Projekt gegründete Unternehmen Docker INC ist deshalb nicht ohne weiteres erfolgreich darin, ein funktionierendes Geschäftsmodell auf Basis der Freien Software zu etablieren. Die Technologie gehört zur Digitalen Allmende. Das Unternehmen gehört Risikoinvestoren. Das kann gut zusammen gehen, muss es aber nicht.
 
-What we take from the example: Docker would never have become an INC if the project had not started as Free Software. From the point of view of dotCloud, the release of docker on Github fits into an open source strategy. Docker INC certainly has an open source strategy. How successful it is and whether investors' expectations will be met remains to be seen.
+Was wir aus dem Beispiel mitnehmen: Docker wäre nie zu einem INC geworden wenn das Projekt nicht als Freie Software begonnen hätte. Aus der Perspektive von dotCloud passt die Veröffentlichung von docker auf Github in eine Open Source Strategie. Docker INC hat sicher eine Open Source Strategie. Wie erfolgreich die ist und ob die Erwartungen der Investoren erfüllt werden, muss sich noch zeigen.
+Im Moment sieht es so aus, daß Docker INC versucht, das Docker-HUB als Plattformgeschäft auszubauen. Das führt uns unmittelbar zu einem anderen Beispiel für den strategischen Einsatz von Freier Software.
 
-At the moment it looks like Docker INC is trying to expand the Docker hub as a platform business. This leads us directly to another example of the strategic use of Free Software.
+## Plattformen
+(Holger Schmidt / MIT: 10% des GDP wird in Plattformökonomie erwirtschaftet.)
+(Holger Schmidt: Plattformen beruhen auf und bieten Raum für Interaktion, Geschäftsmodell auf Interaktionsdaten, Kultivieren Dynamische Ökosysteme)
 
-## Platforms
-(Holger Schmidt / MIT: 10% of GDP is generated in platform economy.)
-(Holger Schmidt: Platforms are based on and offer space for interaction, business model based on interaction data, cultivating dynamic ecosystems)
+Es gibt nur noch zwei relevante Betriebssysteme für Tablets und Mobiltelefone: Android und iOS. Beide sind im Kern quelloffen. Android ist ein modifiziertes Linux. Für Android gibt es einen Markt: Google verkauft Subskriptionen für das Betriebssystem an die Hersteller von Mobilgeräten. Sein Geschäft macht Google aber nicht mit dem Verkauf von Android. Android ist das Mittel zum Zweck, es bildet die Plattform. Google macht sein Geschäft mit dem Play Store Ökosystem und mit dem Sammeln von Daten der Mobilfunknutzer.
 
-There are now only two relevant operating systems for tablets and mobile phones: Android and iOS. Both are essentially open source. Android is a modified Linux. There is a market for Android: Google sells operating system subscriptions to mobile device manufacturers. Google does not do its business by selling Android. Android is the means to an end, it forms the platform. Google does its business with the Play Store ecosystem and collecting data from mobile users.
+Plattformökonomie befeuert das Geschäft der modernen IT Giganten. Amazon, Google, Facebook, Airbnb und viele andere bauen aus Freier Software mit relativ geringem Aufwand kostenlose Lösungen mit dem Ziel in kürzester Zeit eine maximale Anzahl von Nutzern an sich zu binden. Bezahlt wird mit Daten, Aufmerksamkeit oder kostenpflichtigen Zusätzen.
 
-Platform economy fuels the business of modern IT giants. Amazon, Google, Facebook, Airbnb and many others use Free Software to build free solutions with relatively little effort, with the aim of binding a maximum number of users in the shortest possible time. Payment is made with data, attention or paid supplements.
+Indem die Plattformen auf Freier Software aufbauen und häufig Tools, Bibliotheken und offene APIs für Integration und Erweiterung anbieten, laden sie Partner zur Kooperation auf der Plattform ein. Erfolgreiche Plattformen kultivieren ein Open Source Ökosystem mit dem die Plattform aufgewertet wird.
 
-By building on Free Software and often offering tools, libraries and open APIs for integration and expansion, the platforms invite partners to collaborate on the platform. Successful platforms cultivate an open source ecosystem with which the platform is upgraded.
-The global internet-based platforms are increasingly conquering and occupying use cases that have previously been served by local and regional service providers and by on-premise software.
+Dabei erobern und besetzen die globalen internetbasierten Plattformen zunehmend Anwendungsfälle die bisher von lokalen und regionalen Dienstleistern und von On Premise Software bedient worden sind.
 
 ## IOT
-A current example of the dynamics of these community-based developments is the "Connected Home over IP" project by Apple, Amazon, Google and the ZigBee Alliance. The strategy is well known: open standards, open source reference implementation.
-Connected Home addresses the consumer area of IoT. With its IoT stack, Bosch addresses the industrial use cases of IoT, and automobile manufacturers with Connected Car in turn address another area.
+Ein aktuelles Beispiel für die Dynamik dieser Community-basierten Entwicklungen ist das Projekt „Connected Home over IP“ von Apple, Amazon, Google und der ZigBee Alliance. Die Strategie ist bekannt: Offene Standards, Open Source Referenzimplementation. 
+Mit Connected Home wird der Consumer Bereich von IoT adressiert. Bosch adressiert mit seinem IoT Stack die industriellen Anwendungsfälle von IoT, die Automobilhersteller mit Connected Car wiederum einen anderen Bereich.
 
-All of these initiatives use open source methodology to set standards, penetrate markets, build know-how in technical communities.
-It will be exciting to see how these different IoT areas influence each other and where the lines of disruptive potential between the corporations and the startups in these markets are.
+Alle diese Initiativen nutzen Open Source Methodik um Standards zu setzen, Märkte zu durchdringen, Know  How in technischen Communities aufzubauen.
 
-## Communities Economy
-From an economic perspective, a proprietary software business requires a substantial investment. The capital requirement is usually several orders of magnitude above the future license price and above the value in use of the software. The proprietary software manufacturer uses capital, develops the product and then controls sales, service and use. Customers buy the license for a defined application and generate value in use. The manufacturer siphons off a substantial part of the utility value from the license costs. If enough profit cannot be skimmed off, a proprietary software product simply disappears from the market. The same thing happens if the manufacturer is taken over by a competitor or goes bankrupt.
+Es wird spannend zu sehen, wie sich diese verschiedenen IoT Bereiche sich gegenseitig beeinflussen und wo die Bruchlinien des disruptiven Potentials zwischen den Konzernen und den Startups in diesen Märkten verlaufen.
 
-Completely different with Free Software: Ideally, development begins with the user and the development effort is in the same order of magnitude as the utility value. Community education distributes the effort and makes larger projects possible. The distribution and use of the product are not controlled by the manufacturer. If the manufacturer builds an open source business model on the product at any time, he can also skim off a part of the value in use, but the concrete proportion is usually significantly lower than that of the proprietary counterpart. At the same time, Free Software allows an entire open source ecosystem to benefit and profit from the product: distributors, students, consultants, other open source projects, cloud providers - everyone can take the software and use it productively and creatively for their application.
+## Volkswirtschaft
+Wirtschaftlich betrachtet setzt ein proprietäres Software Geschäft eine erhebliche Investition voraus. Der Kapitalbedarf liegt in der Regel um mehrere Größenordnungen über dem zukünftigen Lizenzpreis und über dem Nutzwert der Software. Der proprietäre Softwarehersteller setzt Kapital ein, entwickelt das Produkt und kontrolliert danach Vertrieb, Service und die Nutzung. Die Kunden kaufen die Lizenz für einen definierten Anwendungsfall und erwirtschaften den Nutzwert. Der Hersteller schöpft über die Lizenzkosten einen substanziellen Teil des Nutzwertes ab. Wenn nicht genügend Profit abgeschöpft werden kann, verschwindet ein proprietäres Softwareprodukt einfach vom Markt. Das gleiche passiert, wenn der Hersteller von einem Konkurrenten übernommen wird oder pleite geht.
 
-### Open source business models
-Occasionally, there is also the opportunity to set up an independent business operation based on Free Software. Red Hat is one such example, other examples are the Eclipse Foundation, MariaDB or Docker INC.
+Ganz anders bei Freier Software: Idealtypisch beginnt die Entwicklung beim Nutzer und der Entwicklungsaufwand liegt in der gleichen Größenordnung wie der Nutzwert. Durch Community Bildung werden die Aufwände verteilt und größere Projekte möglich. Die Verbreitung und Nutzung des Produkts werden von Hersteller nicht kontrolliert. Wenn der Hersteller auf dem Produkt zu irgendeiner Zeit ein Open Source Geschäftsmodell aufbaut, kann er ebenfalls einen Teil den Nutzwertes abschöpfen, der konkrete Anteil ist aber in der Regel deutlich geringer als beim proprietären Pendant. Gleichzeitig erlaubt die Freie Software einem ganzen Open Source Ökosystem Nutzen und Profit aus dem Produkt zu ziehen: Distributoren, Studenten, Consultants, andere Open Source Projekte, Cloud-Provider -- alle können die Software nehmen und für ihren Anwendungsfall produktiv und kreativ nutzen.
 
-To extensively discuss the open source business models is beyond the scope of this event. In any case, successful open source companies build on strong communities and have internalized the corresponding culture. At the beginning there is always the customer benefit and the project. Under lucky circumstances, an economically viable business can develop from this later. It is good to develop Free Software for business customers, but it is better to do Free Software together with business customers.
+### Open Source Geschäftsmodelle
+Gelegentlich ergibt sich auch die Möglichkeit auf Basis von Freier Software einen eigenständigen Geschäftsbetrieb aufzubauen. Red Hat ist so ein Beispiel, andere Beispiele sind die Eclipse Foundation, MariaDB oder Docker INC.
+
+Die Open Source Geschäftsmodelle umfassend zu diskutieren sprengt den Rahmen dieser Veranstaltung. In jedem Fall bauen erfolgreiche Open Source Unternehmen auf starken Communities auf und haben die entsprechende Kultur verinnerlicht. Am Anfang steht immer der Kundennutzen und das Projekt. Ein wirtschaftlich tragfähiges Geschäft kann sich unter glücklichen Umständen später daraus entwickeln. Dabei ist es gut Freie Software für Geschäftskunden zu entwickeln, besser ist es aber die Freie Software gemeinsam mit den Geschäftskunden zu machen.
 
 ## Technical Debt
-The IT departments in industry and administration are dragging the legacy of proprietary software development from past decades with them.
+Die IT Abteilungen in Industrie und Verwaltung schleppen die Altlasten proprietärer Softwareentwicklung aus den vergangenen Jahrzehnten mit sich herum. 
 
-Specialist applications whose manufacturers have long since disappeared from the market or which have discontinued support for an old product line. In-house developments whose developers and know-how carriers have switched to other roles or have left the company.
-Those responsible for the application are happy, whose software can run at least on a current operating system version.
+Fachanwendungen, deren Hersteller längst vom Markt verschwunden sind oder die den Support für eine alte Produktlinie eingestellt haben. Eigenentwicklungen, deren Entwickler und Know How Träger in andere Rollen gewechselt sind oder das Unternehmen verlassen haben.
 
-These applications are used somehow, but they are not relevant to competition. That is why there is no budget for modernization. The innovative specialist departments, the profit centers with the free funds for software development, instead pay into the accounts of the public cloud providers.
+Glücklich sind die Applikationsverantwortlichen, deren Software wenigstens auf einer aktuellen Betriebssystemversion lauffähig ist.
+Diese Applikationen werden irgendwie gebraucht, sie sind aber nicht wettbewerbsrelevant. Deshalb gibt es auch kein Budget für die Modernisierung. Die innovativen Fachabteilungen, die Profit Center mit den freien Mitteln für Sofwareentwicklung, zahlen stattdessen auf die Konten der Public Cloud Provider ein.
 
-## Collaboration
-### Janus graph
-At the Bitkom Forum OpenSource in September 2019 in Erfurt, we saw a good example of what modern IT can look like.
-Stefan Hausotte from G-Data spoke about their open source strategy and open source contribution.
+## Kollaboration
+### JanusGraph
+Bei unserem letzten Bitkom Forum OpenSource im September 2019 in Erfurt haben wir ein gutes Beispiel gesehen, wie eine moderne IT aussehen kann. 
 
-G-Data's core business is antivirus software for Windows. Free software is used extensively in production. Among other things, G-Data needs a graph-oriented database for the management of highly networked information and objects. In the young field of big data analytics, there are a number of such databases, most of which are Free Software. G-Data chose JanusGraph, the project is managed by the Linux Foundation. Big names like Google, Hortonworks, IBM and Amazon are involved. With at least two developers, G-Data makes a substantial contribution to the development of JanusGraph.
+Stefan Hausotte von G-Data hat über deren Open Source Strategie und über Open Source Contribution vorgetragen.
+G-Data macht im Kerngeschäft Antiviren Software für Windows. In der Produktion wird sehr umfangreich Freie Software eingesetzt. Unter anderem benötigt G-Data eine graphenorientierte Datenbank zum Management stark vernetzter Informationen und Objekte. In dem jungen Gebiet Big Data Analytics gibt es eine ganze Reihe solcher Datenbanken, von denen die meisten Freie Software sind. G-Data hat sich für JanusGraph entschieden, das Projekt wird von der Linux Foundation gemanagt. Beteiligt sind große Namen wie Google, Hortonworks, IBM und Amazon. G-Data trägt mit mindestens zwei Entwicklern substanziell zur Entwicklung von JanusGraph bei.
 
-In the Bitkom OpenSource Monitor we see that around a third of all companies in Germany are actively involved in the development of Free Software. For most of these companies (86%), this commitment is the cheapest way to use these technologies. This commitment also helps motivate and train employees.
+Im Bitkom OpenSource Monitor sehen wir, dass sich rund ein Drittel aller Unternehmen in Deutschland aktiv an der Entwicklung von Freier Software beteiligen. Für die meisten dieser Unternehmen (86%) ist dieses Engagement der kostengünstigste Weg für den Einsatz dieser Technologien. Außerdem nützt dieses Engagement der Motivation und Weiterbildung der Mitarbeiter.
 
-Free software makes it possible to participate and participate directly in the latest developments in the areas of big data analytics, machine learning, Internet of Things. The markets for these new technologies in particular have not yet developed. New approaches and ideas are constantly emerging in the open source ecosystem, others are rejected and die. Commercial providers may sometimes become established, but in general the development is so dynamic that Free Software has the upper hand. An open source business model may then develop from individual such projects.
+Freie Software ermöglicht es, unmittelbar an den neuesten Entwicklungen in den Bereichen Big Data Analytics, Machine Learning, Internet of Things teilzuhaben und mitzuwirken. Speziell bei diesen neuen Technologien sind die Märkte noch nicht ausentwickelt. In dem Open Source Ökosystem entstehen ständig neue Ansätze und Ideen, andere werden verworfen und sterben ab. Partiell mögen sich kommerzielle Anbieter etablieren, generell ist die Entwicklung aber so dynamisch das Freie Software die Oberhand behält. Aus einzelnen solcher Projekte mag sich dann auch ein Open Source Geschäftsmodell entwickeln.
 
-In any case, it is obviously worthwhile and important for the companies involved to be an active part of this dynamic development.
+In jedem Fall ist es für die beteiligten Unternehmen offenbar lohnend und wichtig, aktiver Teil dieser dynamischen Entwicklung zu sein.
 
-### Antitrust
-Collaboration on an industrial scale is necessarily associated with agreements that, from an antitrust perspective, quickly drift into an illegal area.
+### Kartellrecht
+Kollaboration in industriellem Maßstab ist notwendig mit Absprachen verbunden, die aus kartellrechtlicher Perspektive schnell in einen illegalen Bereich abdriften.
 
-Such a risk of secret practices that exclude other market participants can be systematically prevented by means of a solid open source project. We can see this specifically in the example of the automotive industry, which is under special scrutiny and has been subject to severe penalties in the recent past. The necessary and meaningful collaboration in the area of ​​connected car and autonomous driving therefore takes place as an open source project under the umbrella of the Eclipse Foundation.
+So ein Risiko von geheimen und andere Marktteilnehmer ausschließenden Praktiken lässt durch ein solide aufgestelltes Open Source Projekt systematisch verhindern. Wir sehen das konkret am Beispiel der Automobilindustrie die unter besonderer Beobachtung steht und die ja in der jüngsten Vergangenheit mit empfindlichen Strafen belegt worden ist. Die notwendige und sinnvolle Zusammenarbeit im Bereich Connected Car und Autonomous Driving finden deshalb als Open Source Projekt unter dem Dach der Eclipse Foundation statt.
 
+## Fazit
+Wir sehen, wie Freie Software proprietäre Produkte verdrängt oder zumindest einhegt. Wir sehen, wie Freie Software neue Technologien und Standards global etabliert. Wir sehen, wie Freie Software Menschen motiviert und Wissen verbreitet. Wir sehen, wie Freie Software die Entwicklung von Fachanwendungen und Spezialsoftware kostengünstig und zukunftssicher macht.
 
-## Conclusion
-We see how Free Software displaces or at least hedges proprietary products. We see how Free Software is establishing new technologies and standards globally. We see how Free Software motivates people and spreads knowledge. We see how Free Software makes the development of specialist applications and special software cost-effective and future-proof.
+Digitale Transformation ist nicht denkbar ohne Freie Software. Es ist sicher möglich, sich in dem Strom der agilen Softwareentwicklung durch diese Transformation treiben zu lassen. Von Digitaler Souveränität können wir aber erst dann reden, wenn wir die strategische Wirkmacht von Freier Software erkennen und bewusst einsetzen.
 
-Digital transformation is inconceivable without Free Software. It is certainly possible to drift through the flow of agile software development through this transformation. However, we can only speak of digital sovereignty if we recognize the strategic power of Free Software and use it consciously.
+Der Bitkom Open Source Monitor kommt zum Ergebnis, dass nur etwa jedes fünfte Unternehmen in Deutschland eine konkrete Open Source Strategie formuliert hat. Diese 20 Prozent haben erkannt, wie wirkmächtig Freie Software ist und welche Rolle sie für Innovation und Markt spielt. Ich würde gerne mehr über diese Strategien erfahren. Und ich würde es gerne sehen wenn die Zahl der Unternehmen mit Open Source Strategie rasch wächst.
 
-The Bitkom Open Source Monitor comes to the conclusion that only about every fifth company in Germany has formulated a concrete open source strategy.
-These 20 percent have recognized how effective Free Software is and what role it plays for innovation and the market.
-I would like to learn more about these strategies. And I would like to see the number of companies who establish a Open Source Strategy grow fast.
+Ich lade sie ein zu diesem Projekt beizutragen. Kommentieren sie, ergänzen sie. Was ist die Open Source Strategie ihres Unternehmens? Gibt es etwas das sie hier mit-teilen können?
 
-I invite you to comment on and contribute to this document here. What is your companies Open Source Strategy? Is there anything you can share?
 
