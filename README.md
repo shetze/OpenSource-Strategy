@@ -1,2 +1,2 @@
 # OpenSource-Strategy
-Collection of Documents on Open Source Strategy
+Sammlung von Dokumenten zu Open Source Strategie
