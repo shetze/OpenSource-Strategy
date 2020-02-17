@@ -61,7 +61,7 @@ Nebenbei gesagt ist dieser neue Aspekt von Computer Programmierung, der Einsatz 
 ### Beauty Contest
 Neben der allgegenwärtigen Nutzung von Freier Software als Tool oder Framework im Software Engineering und Coding spielt das Thema auch eine wichtige Rolle bei der Werbung neuer Mitarbeiter. Ehrgeizige Entwickler die etwas auf sich halten profilieren sich in Open Source Projekten. Und sie legen wert darauf, auch in der bezahlten Rolle wenigstens punktuell an solchen Projekten mitzuwirken. Für den Entwickler ist das einerseits Referenz und Visitenkarte, andererseits ist es aber auch eine Einstellung.
 
-Wer sich für das Open Source Mindset und die Umsetzung im Unternehmen interessiert, dem empfehle ich das Buch “The Open Organization” von unserem noch-CEO Jim Whitehurst. Und ich kann hier von dieser Bühne auch ganz schamlos Werbung machen: Red Hat is Hiring! Wir haben einen haufen offener Stellen für supercoole Rollen. Kontaktdaten in der Pause gerne bei mir.
+Wer sich für das Open Source Mindset und die Umsetzung im Unternehmen interessiert, dem empfehle ich das Buch “The Open Organization” von unserem noch-CEO Jim Whitehurst. Und ich kann hier auf Github auch ganz schamlos Werbung machen: Red Hat is Hiring! Wir haben einen haufen offener Stellen für supercoole Rollen.
 
 Arbeitgeber, die keine Open Source Strategie haben oder die halbherzig nur auf Ausbeutung der Digitalen Allmende setzen verlieren in dem Wettkampf um die besten Talente. Und dieser Kulturwandel betrifft keineswegs nur die Softwareentwicklung. Ich empfehle neben Jim Whitehurst auch noch Frederic Laloux mit “Reinventing Organizations”. Richtungsweisendes Buch! Deshalb also noch ein paar weitere Ansatzpunkte für eine solide und zukunftsweisende Open Source Strategie.
 
@@ -113,7 +113,9 @@ Gelegentlich ergibt sich auch die Möglichkeit auf Basis von Freier Software ein
 Die Open Source Geschäftsmodelle umfassend zu diskutieren sprengt den Rahmen dieser Veranstaltung. In jedem Fall bauen erfolgreiche Open Source Unternehmen auf starken Communities auf und haben die entsprechende Kultur verinnerlicht. Am Anfang steht immer der Kundennutzen und das Projekt. Ein wirtschaftlich tragfähiges Geschäft kann sich unter glücklichen Umständen später daraus entwickeln. Dabei ist es gut Freie Software für Geschäftskunden zu entwickeln, besser ist es aber die Freie Software gemeinsam mit den Geschäftskunden zu machen.
 
 ## Technical Debt
-Die IT Abteilungen in Industrie und Verwaltung schleppen die Altlasten proprietärer Softwareentwicklung aus den vergangenen Jahrzehnten mit sich herum. 
+In den Rechenzentren haben sich Altlasten und Technische Schulden angesammelt die auch durch Lift and Shift in die Cloud nicht einfach zu beheben sind. Auch in diesem Bereich lässt sich Freie Software strategisch einsetzen und insbesondere auch die Methodik vorteilhaft anwenden. Für Automatisierung gibt es nicht nur Tools wie zum Beispiel Ansible sondern auch Austauschplattformen für Scripte und Playbooks. Analog gibt es das für Security mit OpenSCAP, und natürlich auch für die gesamte CI CD Automatisierung in den neuen DevOps Szenarien.
+
+Die IT Abteilungen in Industrie und Verwaltung schleppen auch Altlasten proprietärer Softwareentwicklung aus den vergangenen Jahrzehnten mit sich herum. 
 
 Fachanwendungen, deren Hersteller längst vom Markt verschwunden sind oder die den Support für eine alte Produktlinie eingestellt haben. Eigenentwicklungen, deren Entwickler und Know How Träger in andere Rollen gewechselt sind oder das Unternehmen verlassen haben.
 
