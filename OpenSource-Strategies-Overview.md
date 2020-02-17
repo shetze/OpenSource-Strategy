@@ -109,7 +109,12 @@ Occasionally, there is also the opportunity to set up an independent business op
 To extensively discuss the open source business models is beyond the scope of this event. In any case, successful open source companies build on strong communities and have internalized the corresponding culture. At the beginning there is always the customer benefit and the project. Under lucky circumstances, an economically viable business can develop from this later. It is good to develop Free Software for business customers, but it is better to do Free Software together with business customers.
 
 ## Technical Debt
-The IT departments in industry and administration are dragging the legacy of proprietary software development from past decades with them.
+Lecacies and technical debts have accumulated in the data centers, which cannot be lifted and shifted into the cloud
+ch to fix. Free software can also be used strategically in this area and the methodology in particular can be advantageous
+Apply vigorously. For automation, there are not only tools such as Ansible, but also exchange platforms for scripts and the like
+nd playbooks. The same applies to security with OpenSCAP, and of course also for the entire CI CD automation in the new DevOps scenarios.
+
+The IT departments in industry and administration are also carrying legacy proprietary software development from past decades.
 
 Specialist applications whose manufacturers have long since disappeared from the market or which have discontinued support for an old product line. In-house developments whose developers and know-how carriers have switched to other roles or have left the company.
 Those responsible for the application are happy, whose software can run at least on a current operating system version.
