@@ -41,12 +41,13 @@ Damit hat Freie Software nach und nach die Struktur des Software Geschäfts insg
 Natürlich gibt es weiterhin viele kommerzielle Software-Angebote. Die positionieren sich aber immer in einem Umfeld von Freier Software. Rein proprietäre Angebote werden verdrängt.
 
 ### Exkurs: Commons
-Das Wort Allmende bezeichnet ursprünglich das gemeinschaftlich genutzte Land einer Dorfgemeinschaft, das Gemeingut. Im englischen ist dafür der Begriff Commons gebräuchlich und zum Beispiel als Creative Commons auch im Kontext von Freier Software etabliert.
+Das Wort Allmende
+bezeichnet ursprünglich das gemeinschaftlich genutzte Land einer Dorfgemeinschaft, das Gemeingut. Im englischen ist dafür der Begriff [Commons](https://en.wikipedia.org/wiki/Elinor_Ostrom) gebräuchlich und zum Beispiel als Creative Commons auch im Kontext von Freier Software etabliert.
 
 ## Entwicklung
 In der Softwareentwicklung ist Open Source Software so selbstverständlich und universell im Einsatz, dass der grundlegende Charakter als Freie Software von vielen Nutzern gar nicht mehr wahrgenommen wird.
 
-Sogar Microsoft ist längst auf Open Source Strategie eingeschwenkt und ist einer der größten Contributoren für Open Source Software. Der Roslyn Compiler und das gesamte dotNet Core sind Open Source.
+Sogar [Microsoft](https://www.infoworld.com/article/3253948/who-really-contributes-to-open-source.html) ist längst auf Open Source Strategie eingeschwenkt und ist einer der größten Contributoren für Open Source Software. Der Roslyn Compiler und das gesamte dotNet Core sind Open Source.
 
 Für diese Freie Software gibt es selbstverständlich kommerzielle Angebote mit Qualitätssicherung, Support und SLAs. Praktisch alle Anwender nutzen die fertigen Produkte und die Open Source Communities sind überschaubar. Strategisch ist der Einsatz dieser Software deshalb für die Anwender nicht wirklich relevant.
 
@@ -56,12 +57,12 @@ Analog finden wir in der Entwicklung neuer Technologien zahlreiche Beispiele fü
 
 Wer heute von einer Universität oder Fachhochschlule kommt und als Softwareingenieur anfängt, der hat in seine Ausbildungs und Studienzeit mit absoluter Sicherheit Erfahrungen mit Freier Software gesammelt. Im einfachsten Fall als Anwender. Die ambitionierteren Entwickler haben weit über die Anwendung hinaus Open Source gelesen, daraus gelernt und ihre Fähigkeiten in Community Projekten ausgebildet und perfektioniert. Genau diese Entwickler werden heute gebraucht. Einfache Programmierer werden in Zukunft durch Roboter ersetzt.
 
-Nebenbei gesagt ist dieser neue Aspekt von Computer Programmierung, der Einsatz von Maschinen für Automatisierung, Wartung und Optimierung der Entwicklungsarbeit erst durch den Einsatz von Künstlicher Intelligenz auf den großen Quellcode Beständen der Freien Software möglich.  Beispielsweise Github bietet Tools zur automatischen Verbesserung der eigenen Programme und Dokumentation an. Da werden auf der Digitalen Allmende ganz neue Geschäftsmodelle aufgebaut und der strategische Einsatz von Open Source auf eine neue Ebene gehoben.
+Nebenbei gesagt ist dieser neue Aspekt von Computer Programmierung, der [Einsatz von Maschinen](https://www.youtube.com/watch?v=BH9jXhk6VAY) für Automatisierung, Wartung und Optimierung der Entwicklungsarbeit erst durch den Einsatz von Künstlicher Intelligenz auf den großen Quellcode Beständen der Freien Software möglich.  Beispielsweise Github bietet Tools zur automatischen Verbesserung der eigenen Programme und Dokumentation an. Da werden auf der Digitalen Allmende ganz neue Geschäftsmodelle aufgebaut und der strategische Einsatz von Open Source auf eine neue Ebene gehoben.
 
 ### Beauty Contest
 Neben der allgegenwärtigen Nutzung von Freier Software als Tool oder Framework im Software Engineering und Coding spielt das Thema auch eine wichtige Rolle bei der Werbung neuer Mitarbeiter. Ehrgeizige Entwickler die etwas auf sich halten profilieren sich in Open Source Projekten. Und sie legen wert darauf, auch in der bezahlten Rolle wenigstens punktuell an solchen Projekten mitzuwirken. Für den Entwickler ist das einerseits Referenz und Visitenkarte, andererseits ist es aber auch eine Einstellung.
 
-Wer sich für das Open Source Mindset und die Umsetzung im Unternehmen interessiert, dem empfehle ich das Buch “The Open Organization” von unserem noch-CEO Jim Whitehurst. Und ich kann hier auf Github auch ganz schamlos Werbung machen: Red Hat is Hiring! Wir haben einen haufen offener Stellen für supercoole Rollen.
+Wer sich für das Open Source Mindset und die Umsetzung im Unternehmen interessiert, dem empfehle ich das Buch [“The Open Organization”](https://www.buecher.de/shop/allgemeines/the-open-organization/whitehurst-jim/products_products/detail/prod_id/41564072/) von unserem noch-CEO Jim Whitehurst. Und ich kann hier auf Github auch ganz schamlos Werbung machen: Red Hat is Hiring! Wir haben einen haufen offener Stellen für supercoole Rollen.
 
 Arbeitgeber, die keine Open Source Strategie haben oder die halbherzig nur auf Ausbeutung der Digitalen Allmende setzen verlieren in dem Wettkampf um die besten Talente. Und dieser Kulturwandel betrifft keineswegs nur die Softwareentwicklung. Ich empfehle neben Jim Whitehurst auch noch Frederic Laloux mit “Reinventing Organizations”. Richtungsweisendes Buch! Deshalb also noch ein paar weitere Ansatzpunkte für eine solide und zukunftsweisende Open Source Strategie.
 
@@ -88,7 +89,7 @@ Im Moment sieht es so aus, daß Docker INC versucht, das Docker-HUB als Plattfor
 
 Es gibt nur noch zwei relevante Betriebssysteme für Tablets und Mobiltelefone: Android und iOS. Beide sind im Kern quelloffen. Android ist ein modifiziertes Linux. Für Android gibt es einen Markt: Google verkauft Subskriptionen für das Betriebssystem an die Hersteller von Mobilgeräten. Sein Geschäft macht Google aber nicht mit dem Verkauf von Android. Android ist das Mittel zum Zweck, es bildet die Plattform. Google macht sein Geschäft mit dem Play Store Ökosystem und mit dem Sammeln von Daten der Mobilfunknutzer.
 
-Plattformökonomie befeuert das Geschäft der modernen IT Giganten. Amazon, Google, Facebook, Airbnb und viele andere bauen aus Freier Software mit relativ geringem Aufwand kostenlose Lösungen mit dem Ziel in kürzester Zeit eine maximale Anzahl von Nutzern an sich zu binden. Bezahlt wird mit Daten, Aufmerksamkeit oder kostenpflichtigen Zusätzen.
+[Plattformökonomie](https://www.netzoekonom.de/plattform-oekonomie/) befeuert das Geschäft der modernen IT Giganten. Amazon, Google, Facebook, Airbnb und viele andere bauen aus Freier Software mit relativ geringem Aufwand kostenlose Lösungen mit dem Ziel in kürzester Zeit eine maximale Anzahl von Nutzern an sich zu binden. Bezahlt wird mit Daten, Aufmerksamkeit oder kostenpflichtigen Zusätzen.
 
 Indem die Plattformen auf Freier Software aufbauen und häufig Tools, Bibliotheken und offene APIs für Integration und Erweiterung anbieten, laden sie Partner zur Kooperation auf der Plattform ein. Erfolgreiche Plattformen kultivieren ein Open Source Ökosystem mit dem die Plattform aufgewertet wird.
 
@@ -102,7 +103,7 @@ Alle diese Initiativen nutzen Open Source Methodik um Standards zu setzen, Märk
 
 Es wird spannend zu sehen, wie sich diese verschiedenen IoT Bereiche sich gegenseitig beeinflussen und wo die Bruchlinien des disruptiven Potentials zwischen den Konzernen und den Startups in diesen Märkten verlaufen.
 
-## Volkswirtschaft
+## Volxwirtschaft
 Wirtschaftlich betrachtet setzt ein proprietäres Software Geschäft eine erhebliche Investition voraus. Der Kapitalbedarf liegt in der Regel um mehrere Größenordnungen über dem zukünftigen Lizenzpreis und über dem Nutzwert der Software. Der proprietäre Softwarehersteller setzt Kapital ein, entwickelt das Produkt und kontrolliert danach Vertrieb, Service und die Nutzung. Die Kunden kaufen die Lizenz für einen definierten Anwendungsfall und erwirtschaften den Nutzwert. Der Hersteller schöpft über die Lizenzkosten einen substanziellen Teil des Nutzwertes ab. Wenn nicht genügend Profit abgeschöpft werden kann, verschwindet ein proprietäres Softwareprodukt einfach vom Markt. Das gleiche passiert, wenn der Hersteller von einem Konkurrenten übernommen wird oder pleite geht.
 
 Ganz anders bei Freier Software: Idealtypisch beginnt die Entwicklung beim Nutzer und der Entwicklungsaufwand liegt in der gleichen Größenordnung wie der Nutzwert. Durch Community Bildung werden die Aufwände verteilt und größere Projekte möglich. Die Verbreitung und Nutzung des Produkts werden von Hersteller nicht kontrolliert. Wenn der Hersteller auf dem Produkt zu irgendeiner Zeit ein Open Source Geschäftsmodell aufbaut, kann er ebenfalls einen Teil den Nutzwertes abschöpfen, der konkrete Anteil ist aber in der Regel deutlich geringer als beim proprietären Pendant. Gleichzeitig erlaubt die Freie Software einem ganzen Open Source Ökosystem Nutzen und Profit aus dem Produkt zu ziehen: Distributoren, Studenten, Consultants, andere Open Source Projekte, Cloud-Provider -- alle können die Software nehmen und für ihren Anwendungsfall produktiv und kreativ nutzen.
