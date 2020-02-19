@@ -42,7 +42,7 @@ Natürlich gibt es weiterhin viele kommerzielle Software-Angebote. Die positioni
 
 ### Exkurs: Commons
 Das Wort Allmende
-bezeichnet ursprünglich das gemeinschaftlich genutzte Land einer Dorfgemeinschaft, das Gemeingut. Im Englischen ist dafür der Begriff [Commons](https://en.wikipedia.org/wiki/Commons) gebräuchlich und zum Beispiel als Creative Commons auch im Kontext von Freier Software etabliert.
+bezeichnet ursprünglich das gemeinschaftlich genutzte Land einer Dorfgemeinschaft, das Gemeingut. Im Englischen ist dafür der Begriff [Commons](https://en.wikipedia.org/wiki/Elinor_Ostrom) gebräuchlich und zum Beispiel als Creative Commons auch im Kontext von Freier Software etabliert.
 
 ## Entwicklung
 In der Softwareentwicklung ist Open Source Software so selbstverständlich und universell im Einsatz, dass der grundlegende Charakter als Freie Software von vielen Nutzern gar nicht mehr wahrgenommen wird.
@@ -149,5 +149,4 @@ Digitale Transformation ist nicht denkbar ohne Freie Software. Es ist sicher mö
 Der Bitkom Open Source Monitor kommt zum Ergebnis, dass nur etwa jedes fünfte Unternehmen in Deutschland eine konkrete Open Source Strategie formuliert hat. Diese 20 Prozent haben erkannt, wie wirkmächtig Freie Software ist und welche Rolle sie für Innovation und Markt spielt. Ich würde gerne mehr über diese Strategien erfahren. Und ich würde es gerne sehen wenn die Zahl der Unternehmen mit Open Source Strategie rasch wächst.
 
 Ich lade sie ein zu diesem Projekt beizutragen. Kommentieren sie, ergänzen sie. Was ist die Open Source Strategie ihres Unternehmens? Gibt es etwas das sie hier mit-teilen können?
-
 
