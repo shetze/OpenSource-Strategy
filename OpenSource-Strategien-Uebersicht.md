@@ -103,7 +103,7 @@ Alle diese Initiativen nutzen Open Source Methodik um Standards zu setzen, Märk
 
 Es wird spannend zu sehen, wie diese verschiedenen IoT Bereiche sich gegenseitig beeinflussen und wo die Bruchlinien des disruptiven Potentials zwischen den Konzernen und den Startups in diesen Märkten verlaufen.
 
-## Volkswirtschaft
+## Volxwirtschaft
 Wirtschaftlich betrachtet setzt ein proprietäres Softwaregeschäft eine erhebliche Investition voraus. Der Kapitalbedarf liegt in der Regel um mehrere Größenordnungen über dem zukünftigen Lizenzpreis und über dem Nutzwert der Software. Der proprietäre Softwarehersteller setzt Kapital ein, entwickelt das Produkt und kontrolliert danach Vertrieb, Service und die Nutzung. Die Kunden kaufen die Lizenz für einen definierten Anwendungsfall und erwirtschaften den Nutzwert. Der Hersteller schöpft über die Lizenzkosten einen substanziellen Teil des Nutzwertes ab. Wenn nicht genügend Profit abgeschöpft werden kann, verschwindet ein proprietäres Softwareprodukt einfach vom Markt. Das gleiche passiert, wenn der Hersteller von einem Konkurrenten übernommen wird oder pleite geht.
 
 Ganz anders bei Freier Software: Idealtypisch beginnt die Entwicklung beim Nutzer und der Entwicklungsaufwand liegt in der gleichen Größenordnung wie der Nutzwert. Durch Community Bildung werden die Aufwände verteilt und größere Projekte möglich. Die Verbreitung und Nutzung des Produkts werden vom Hersteller nicht kontrolliert. Wenn der Hersteller auf dem Produkt zu irgendeiner Zeit ein Open Source Geschäftsmodell aufbaut, kann er ebenfalls einen Teil den Nutzwertes abschöpfen, der konkrete Anteil ist aber in der Regel deutlich geringer als beim proprietären Pendant. Gleichzeitig erlaubt die Freie Software einem ganzen Open Source Ökosystem Nutzen und Profit aus dem Produkt zu ziehen: Distributoren, Studenten, Consultants, andere Open Source Projekte, Cloud-Provider -- alle können die Software nehmen und für ihren Anwendungsfall produktiv und kreativ nutzen.
@@ -150,5 +150,4 @@ Digitale Transformation ist nicht denkbar ohne Freie Software. Es ist sicher mö
 Der Bitkom Open Source Monitor kommt zum Ergebnis, dass nur etwa jedes fünfte Unternehmen in Deutschland eine konkrete Open Source Strategie formuliert hat. Diese 20 Prozent haben erkannt, wie wirkmächtig Freie Software ist und welche Rolle sie für Innovation und Markt spielt. Ich würde gerne mehr über diese Strategien erfahren. Und ich würde es gerne sehen wenn die Zahl der Unternehmen mit Open Source Strategie rasch wächst.
 
 Ich lade sie ein, zu diesem Projekt beizutragen. Kommentieren sie, ergänzen sie. Was ist die Open Source Strategie ihres Unternehmens? Gibt es etwas, das sie hier mit-teilen können?
-
 
